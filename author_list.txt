@@ -1,0 +1,29 @@
+David Lazer, Harvard University.
+Alex (Sandy) Pentland, MIT.
+Lada Adamic, University of Michigan.
+Sinan Aral, NYU.
+Albert Laszlo Barabasi, Northeastern University.
+Devon Brewer, Interdisciplinary Scientific Research.
+Nicholas Christakis, Harvard University.
+Noshir Contractor, Northwestern University.
+James Fowler, UCSD.
+Myron Gutmann, University of Michigan.
+Tony Jebara, Columbia University.
+Gary King, Harvard University.
+Michael Macy, Cornell University.
+Deb Roy, MIT.
+Marshall Van Alstyne, Boston University.
+Santo Fortunato
+Carl T. Bergstrom
+Katy Börner
+James A. Evans
+Dirk Helbing
+Staša Milojević
+Alexander M. Petersen
+Filippo Radicchi
+Roberta Sinatra
+Brian Uzzi
+Alessandro Vespignani
+Ludo Waltman
+Dashun Wang
+Albert-László Barabási
